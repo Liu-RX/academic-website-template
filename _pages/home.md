@@ -1,32 +1,57 @@
 ---
 title: "Home"
-layout: homelay
+# layout: homelay
+layout: textlay
 sitemap: false
 permalink: /
 ---
 
-### Welcome!
+## Welcome to Xifan Group!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+In physics department of Temple University, the group of Professor Xifan Wu is focusing on studying the fundamental molecular structure, physical and chemical properties of liquid water and aqueous solutions. To this end, we are developing and applying advanced methods of ab initio molecular dynamics simulations, density functional theory, and electronic excitation theories.
 
 <div class="container">
 <div class="row">
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+Water is the most important substance on this planet. <br/>
 </center>
 </div>
 </div>
 <br/>
 
-### About me
+## Research Interests
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+- **Proton Transfer in Water**: study the proton transfer phenomena in water by advanced ab initio molecular dynamics
+
+<div class="container">
+<div class="row">
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/water_ion.jpeg" width="60%"/><br/>
+Hydroxide ion forming 4 hydrogen bonds with neighboring water molecules. <br/>
+</center>
+</div>
+</div>
+<br/>
+
+- **Molecular structure of liquid water**: studies by advanced density functional theory at high level approximation of Jacob’s ladder.
+
+<div class="container">
+<div class="row">
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/jacob_ladder.jpeg" width="60%"/>
+</center>
+</div>
+</div>
+<br/>
+
+- **Electron excitation in water**: Study the spectroscopy associated with electron excitation in water by using many-body perturbation theory such as GW-BSE approach.
+
+<div class="container">
+<div class="row">
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/exite.jpg" width="60%"/>
+</center>
+</div>
+</div>
+<br/>

@@ -1,9 +1,14 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Xifan Wu
+email: xifanwu@temple.edu
+description: Academic webpage of Dr. Xifan Wu group
 baseurl: ""
 url: ""
+# title: Richard Feynman
+# email: richard@university.edu
+# description: Academic webpage of Dr. Richard Feynman
+# baseurl: ""
+# url: ""
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
@@ -12,18 +17,24 @@ url: ""
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
+  Xifan Wu<br/>
   Professor of Physics<br/>
-  California Institute of Technology
+  Temple University
+# Richard Feynman<br/>
+# Professor of Physics<br/>
+# California Institute of Technology
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  SERC, Temple University<br/>
+  1925 N 12th St<br/>
+  Philadelphia, PA 19122
+# California Institute of Technology<br/>
+# 1200 E California Blvd<br/>
+# Pasadena, CA 91125
 
 contact: >
-  <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
-  <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+  <a href="mailto:xifanwu@temple.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Xifan Wu via email</a> <br/>
+  <a href="https://xifanwugroup.com"><i class="fa fa-github fa-1x"></i> Academic website</a>
 
 # Pages shown in navbar
 nav_pages:
@@ -31,10 +42,11 @@ nav_pages:
   - name: publications
   - name: talks
   - name: research
-  - name: software
   - name: team
-  - name: teaching
-  - name: blogs
+  - name: news
+#  - name: software
+#  - name: teaching
+#  - name: blogs
 
 include:
   - .htaccess
